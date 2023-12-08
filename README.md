@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sayan-dev731
 - 👀 I’m interested in Game developing
-- 🌱 I’m currently learning Python
+-  I'm a full stack developer
+- 🌱 I’m currently learning Python(machine learning)
 - 💞️ I’m looking to collaborate on Frostbite 2 or Unity
 - 📫 How to reach me sayancodder731@gmail.com
 
