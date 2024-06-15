@@ -1,13 +1,14 @@
 
 # Hi there, I'm Sayan Karmakar 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sayan-Dev731&color=brightgreen)
-
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="15%" align="left">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sayan-Dev731&color=brightgreen)
 
 ## About Me
 🚀 Space boy, coding joy, moments to deploy. 💻 Seize the day, with code at play. 😁 Smiles alight, in every byte. 💾
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY290cDNzMXJvczg2ZzR1dThuaG5xaTV0d3RoYWFpa3dqaHYwYzA4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lINRJmPp5n4fMjCm9B/giphy.webp" width="30%" align="right">
+
 ### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sayan-karmakar-01239a242"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
