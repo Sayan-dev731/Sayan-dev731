@@ -3,13 +3,29 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayan-Dev731&color=brightgreen)
 
 ## About Me
-I'm a competitive coder and passionate game developer with experience in **Unity** and **Godot**. Currently pursuing a **B.Tech** at **Rungta College of Engineering & Technology**. Actively involved in the tech community.
+🚀 Space boy, coding joy, moments to deploy. 💻 Seize the day, with code at play. 😁 Smiles alight, in every byte. 💾
 
 ### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sayan-karmakar-01239a242"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:sayancodder731@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
+
+### Personal Details
+- **Birthday:** 9 August 2004
+- **Website:** [www.example.com](http://www.example.com)
+- **Phone:** +91 78484 43948
+- **City:** Bhilai, India
+- **Age:** 19
+- **Degree:** Bachelor
+- **Email:** sayancodder731@gmail.com
+- **Intern:** Available
+
+Competitive Coder & Game Developer. A curious mind fascinated by science, technology, and the melodies of life! I have a deep passion for understanding the world around me and an unquenchable thirst for knowledge.
+
+From the latest advancements in science and tech to stargazing under the night sky, I'm driven by discovery. My hobbies reflect this: I've built Deep Learning Programs, demonstrating my coding skills, and I stay current on tech news. Whether exploring the cosmos or diving into competitive coding on CodeChef, I'm always learning and growing.
+
+🌌 Space mysteries make my mind go 🤔! Music + code = 😊 for me. Laughter is my kryptonite 🤣 I build cool stuff with code (Java, Python, + more!), tackle deep learning & IoT projects, and even make game scenes ✨ Competitive coding? Let's go! 🏆
 
 ## Technologies & Tools
 <p align="center">
