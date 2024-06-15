@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayan-Dev731&color=brightgreen)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="20%" align="left">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="15%" align="left">
 
 ## About Me
 🚀 Space boy, coding joy, moments to deploy. 💻 Seize the day, with code at play. 😁 Smiles alight, in every byte. 💾
@@ -21,7 +21,7 @@ From the latest advancements in science and tech to stargazing under the night s
 🌌 Space mysteries make my mind go 🤔! Music + code = 😊 for me. Laughter is my kryptonite 🤣 I build cool stuff with code (Java, Python, + more!), tackle deep learning & IoT projects, and even make game scenes ✨ Competitive coding? Let's go! 🏆
 
 ## Technologies & Tools
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt4bTdybDM4d25pY2s1OXE2M2c0ZTQzN2J3ajJ1MTR1bDV3Y2RoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.webp" width="15%" align="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt4bTdybDM4d25pY2s1OXE2M2c0ZTQzN2J3ajJ1MTR1bDV3Y2RoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.webp" width="20%" align="right">
 <p align="center">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
