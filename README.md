@@ -44,8 +44,8 @@ From the latest advancements in science and tech to stargazing under the night s
   <img src="https://img.shields.io/badge/-Advanced%20Computer%20Vision-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-NLP-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Machine%20Learning-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-</p>
-<br>
+</p><br> 
+
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan-Dev731&show_icons=true&theme=radical" alt="Sayan's GitHub Stats" />
