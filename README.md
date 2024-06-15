@@ -76,4 +76,9 @@ From the latest advancements in science and tech to stargazing under the night s
 ## Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Dev731&theme=radical" alt="GitHub Streak" />
 </p>
+
+## Contribution Snake
+![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
