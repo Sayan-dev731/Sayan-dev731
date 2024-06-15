@@ -21,7 +21,7 @@ From the latest advancements in science and tech to stargazing under the night s
 🌌 Space mysteries make my mind go 🤔! Music + code = 😊 for me. Laughter is my kryptonite 🤣 I build cool stuff with code (Java, Python, + more!), tackle deep learning & IoT projects, and even make game scenes ✨ Competitive coding? Let's go! 🏆
 
 ## Technologies & Tools
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt4bTdybDM4d25pY2s1OXE2M2c0ZTQzN2J3ajJ1MTR1bDV3Y2RoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.webp" width="20%" align="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt4bTdybDM4d25pY2s1OXE2M2c0ZTQzN2J3ajJ1MTR1bDV3Y2RoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.webp" width="15%" align="right">
 <p align="center">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
@@ -75,7 +75,7 @@ From the latest advancements in science and tech to stargazing under the night s
   <img src="https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Dev731&theme=radical" alt="GitHub Streak" />
 </p>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0YzU0MG1rd2tjMDFjb3k2M3JlNWp2ZHJuMGxxcmZwc2VhOWsxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pd0HQOQN71YHtkXSu3/giphy.webp" width="20%" align="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0YzU0MG1rd2tjMDFjb3k2M3JlNWp2ZHJuMGxxcmZwc2VhOWsxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pd0HQOQN71YHtkXSu3/giphy.webp" width="15%" align="right">
 
 ## Contribution Snake
 ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
