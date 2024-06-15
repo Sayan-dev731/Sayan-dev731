@@ -1,4 +1,4 @@
-# Hi there, I'm Sayan Karmakar! 👋
+# Hi there, I'm Sayan Karmakar 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayan-Dev731&color=brightgreen)
 
@@ -69,5 +69,6 @@ From the latest advancements in science and tech to stargazing under the night s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Dev731&theme=radical" alt="GitHub Streak" />
 </p>
 
-## Contribution Graph
-![GitHub Contributions](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+## Contribution Snake
+![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
