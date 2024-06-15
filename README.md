@@ -1,4 +1,4 @@
-# Hi there, I'm Sayan Karmakar 👋
+# Hi there, I'm Sayan Karmakar! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayan-Dev731&color=brightgreen)
 
@@ -40,30 +40,31 @@ From the latest advancements in science and tech to stargazing under the night s
   <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Machine%20Learning-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </p>
 
-## GitHub Stats
+## GitHub Stats and Animation
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan-Dev731&show_icons=true&theme=radical" alt="Sayan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Dev731&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## Projects
+## Projects and GIFs
 - [**Project Portfolio**](https://sayan-dev731.github.io/MyWebsite/)
 - [**Unity Game Project**](https://github.com/Sayan-Dev731/unity-game-project)
 - [**Godot Game Project**](https://github.com/Sayan-Dev731/godot-game-project)
 
-## Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/-Computer%20Vision-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NLP-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30%">
 </p>
 
-## Achievements
+## Skills with Animations
+<p align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="30%">
+</p>
+
+## Achievements and Badges
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Dev731&theme=radical" alt="GitHub Streak" />
