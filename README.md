@@ -5,9 +5,11 @@
 ## About Me
 I'm a competitive coder and passionate game developer with experience in **Unity** and **Godot**. Currently pursuing a **B.Tech** at **Rungta College of Engineering & Technology**. Actively involved in the tech community.
 
-### Current Roles
-- 🎓 **Beta Microsoft Learn Student Ambassador**
-- 🎓 **Campus Mantri at GeeksforGeeks**
+### Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayan-karmakar-01239a242"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="mailto:sayancodder731@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
 
 ## Technologies & Tools
 <p align="center">
@@ -24,6 +26,12 @@ I'm a competitive coder and passionate game developer with experience in **Unity
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 </p>
 
+## Currently Learning
+- **Generative AI**
+- **Advanced Computer Vision**
+- **Natural Language Processing (NLP)**
+- **Microsoft Azure Machine Learning**
+
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan-Dev731&show_icons=true&theme=radical" alt="Sayan's GitHub Stats" />
@@ -35,13 +43,6 @@ I'm a competitive coder and passionate game developer with experience in **Unity
 - [**Unity Game Project**](https://github.com/Sayan-Dev731/unity-game-project)
 - [**Godot Game Project**](https://github.com/Sayan-Dev731/godot-game-project)
 
-## Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Web%20Developer%20Bootcamp%20-%20Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Generative%20AI%20-%20Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-</p>
-
 ## Skills
 <p align="center">
   <img src="https://img.shields.io/badge/-Computer%20Vision-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
@@ -52,10 +53,4 @@ I'm a competitive coder and passionate game developer with experience in **Unity
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
-</p>
-
-## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sayan-karmakar-01239a242"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="mailto:sayancodder731@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
