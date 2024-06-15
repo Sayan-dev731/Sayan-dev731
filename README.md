@@ -61,10 +61,8 @@ From the latest advancements in science and tech to stargazing under the night s
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
-
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJjbWJtbng0cmNzbzVjOXJ4bHVhcmhxMXRtMXNuNWgycHRtYnBrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.webp" width="10%">
 </p>
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJjbWJtbng0cmNzbzVjOXJ4bHVhcmhxMXRtMXNuNWgycHRtYnBrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.webp" width="10%">
 ## Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
