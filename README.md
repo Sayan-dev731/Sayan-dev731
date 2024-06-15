@@ -50,7 +50,7 @@ From the latest advancements in science and tech to stargazing under the night s
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan-Dev731&show_icons=true&theme=radical" alt="Sayan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Dev731&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="20%" align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="20%" align="right">
 
 ## Projects
 - [**Project Portfolio**](https://sayan-dev731.github.io/MyWebsite/)
