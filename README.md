@@ -27,10 +27,12 @@ I'm a competitive coder and passionate game developer with experience in **Unity
 </p>
 
 ## Currently Learning
-- **Generative AI**
-- **Advanced Computer Vision**
-- **Natural Language Processing (NLP)**
-- **Microsoft Azure Machine Learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Generative%20AI-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Advanced%20Computer%20Vision-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NLP-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Machine%20Learning-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+</p>
 
 ## GitHub Stats
 <p align="center">
@@ -53,4 +55,9 @@ I'm a competitive coder and passionate game developer with experience in **Unity
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
+</p>
+
+## Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
