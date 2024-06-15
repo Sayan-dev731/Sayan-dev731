@@ -11,16 +11,6 @@
   <a href="mailto:sayancodder731@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
-### Personal Details
-- **Birthday:** 9 August 2004
-- **Website:** [www.example.com](http://www.example.com)
-- **Phone:** +91 78484 43948
-- **City:** Bhilai, India
-- **Age:** 19
-- **Degree:** Bachelor
-- **Email:** sayancodder731@gmail.com
-- **Intern:** Available
-
 Competitive Coder & Game Developer. A curious mind fascinated by science, technology, and the melodies of life! I have a deep passion for understanding the world around me and an unquenchable thirst for knowledge.
 
 From the latest advancements in science and tech to stargazing under the night sky, I'm driven by discovery. My hobbies reflect this: I've built Deep Learning Programs, demonstrating my coding skills, and I stay current on tech news. Whether exploring the cosmos or diving into competitive coding on CodeChef, I'm always learning and growing.
