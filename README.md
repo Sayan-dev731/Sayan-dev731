@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayan-Dev731&color=brightgreen)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="23%" align="left">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="20%" align="left">
 
 ## About Me
 🚀 Space boy, coding joy, moments to deploy. 💻 Seize the day, with code at play. 😁 Smiles alight, in every byte. 💾
@@ -49,8 +49,7 @@ From the latest advancements in science and tech to stargazing under the night s
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan-Dev731&show_icons=true&theme=radical" alt="Sayan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Dev731&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="30%" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="20%" align="right">
 
 ## Projects
 - [**Project Portfolio**](https://sayan-dev731.github.io/MyWebsite/)
@@ -76,7 +75,7 @@ From the latest advancements in science and tech to stargazing under the night s
   <img src="https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Dev731&theme=radical" alt="GitHub Streak" />
 </p>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0YzU0MG1rd2tjMDFjb3k2M3JlNWp2ZHJuMGxxcmZwc2VhOWsxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pd0HQOQN71YHtkXSu3/giphy.webp" width="23%" align="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0YzU0MG1rd2tjMDFjb3k2M3JlNWp2ZHJuMGxxcmZwc2VhOWsxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pd0HQOQN71YHtkXSu3/giphy.webp" width="20%" align="right">
 
 ## Contribution Snake
 ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
