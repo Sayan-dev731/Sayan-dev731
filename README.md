@@ -59,7 +59,7 @@ From the latest advancements in science and tech to stargazing under the night s
 
 ## Skills with Animations
 <p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJjbWJtbng0cmNzbzVjOXJ4bHVhcmhxMXRtMXNuNWgycHRtYnBrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.webp" width="30%">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="30%">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="30%">
 </p>
