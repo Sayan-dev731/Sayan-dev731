@@ -1,5 +1,9 @@
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff0000&lines=Hi👋+I'm+Sayan+Karmakar..;I'm+a+Coder+👩🏻‍💻..;Nice+To+Meet+You+...." width='80%'>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Hi👋+I'm+Sayan+Karmakar..;I'm+a+Coder+👩🏻‍💻..;Nice+To+Meet+You+....">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hi👋+I'm+Sayan+Karmakar..;I'm+a+Coder+👩🏻‍💻..;Nice+To+Meet+You+....">
+    <img alt="Hi👋 I'm Sayan Karmakar..;I'm a Coder👩🏻‍💻..;Nice To Meet You...." src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hi👋+I'm+Sayan+Karmakar..;I'm+a+Coder+👩🏻‍💻..;Nice+To+Meet+You+....">
+  </picture>
 </h1>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="15%" align="left">
