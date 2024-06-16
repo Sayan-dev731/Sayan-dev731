@@ -1,6 +1,7 @@
 
 # Hi there, I'm Sayan Karmakar 👋
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=28&lines=Hi👋+I'm+Sayan+Karmakar..;I'm+a+Coder+👩🏻‍💻.;Nice+To+Meet+You+...." align='center'></a>
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=28&lines=Hi👋+I'm+Sayan+Karmakar..;I'm+a+Coder+👩🏻‍💻.;Nice+To+Meet+You+...." align='center'></a></h1>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="15%" align="left">
 
