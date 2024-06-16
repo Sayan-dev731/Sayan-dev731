@@ -17,7 +17,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY290cDNzMXJvczg2ZzR1dThuaG5xaTV0d3RoYWFpa3dqaHYwYzA4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lINRJmPp5n4fMjCm9B/giphy.webp" width="30%" align="right">
 
 ### Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sayan-karmakar-01239a242"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:sayancodder731@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
@@ -30,7 +30,7 @@ From the latest advancements in science and tech to stargazing under the night s
 
 ## Technologies & Tools
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt4bTdybDM4d25pY2s1OXE2M2c0ZTQzN2J3ajJ1MTR1bDV3Y2RoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.webp" width="20%" align="right">
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
