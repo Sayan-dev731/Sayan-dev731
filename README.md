@@ -43,8 +43,8 @@ From the latest advancements in science and tech to stargazing under the night s
 </p>
 
 ## Currently Learning
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN5ZjBpZXJ3ZGZ5NzE1eGI0cXkwZHU1OGw5bzgyOWh3Z2VtMWJxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.webp" width="10%" align="left">
-<p align="right"><br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN5ZjBpZXJ3ZGZ5NzE1eGI0cXkwZHU1OGw5bzgyOWh3Z2VtMWJxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.webp" width="20%" align="left">
+<p align="left"><br>
   <img src="https://img.shields.io/badge/-Generative%20AI-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Advanced%20Computer%20Vision-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-NLP-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
