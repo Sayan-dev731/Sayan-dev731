@@ -2,9 +2,9 @@
 
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Hola+Amigos++😎..;Gamer+obviously🎮+Game+Developer......+☆*: .｡. o(≧▽≦)o .｡.:*☆;Nice+To+Meet+You+....">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hola+Amigos++😎..;Gamer+obviously🎮+Game+Developer......+☆*: .｡. o(≧▽≦)o .｡.:*☆;Nice+To+Meet+You+....">
-    <img alt="Hi👋 I'm Sayan Karmakar..;I'm a Coder👩🏻‍💻..;Nice To Meet You...." src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hola+Amigos++😎..;Gamer+obviously🎮+Game+Developer......+☆*: .｡. o(≧▽≦)o .｡.:*☆;Nice+To+Meet+You+....">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Hola+Amigos+😎;Gamer+obviously🎮;Game+Developer+✨;Nice+To+Meet+You+....">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hola+Amigos+😎;Gamer+obviously🎮;Game+Developer+✨;Nice+To+Meet+You+....">
+    <img alt="Hola Amigos 😎; Gamer obviously 🎮; Game Developer ✨; Nice To Meet You...." src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hola+Amigos+😎;Gamer+obviously🎮;Game+Developer+✨;Nice+To+Meet+You+....">
   </picture>
 </h1>
 
