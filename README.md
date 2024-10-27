@@ -82,7 +82,13 @@ From the latest advancements in science and tech to stargazing under the night s
 ## Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Dev731&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Dev731&theme=radical" alt="GitHub Streak" /> <br>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </p>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0YzU0MG1rd2tjMDFjb3k2M3JlNWp2ZHJuMGxxcmZwc2VhOWsxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pd0HQOQN71YHtkXSu3/giphy.webp" width="15%" align="right">
 
