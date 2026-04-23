@@ -1,120 +1,234 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY3E3Z2s1aWJ1enI2c2F0Z3B2bXg2cWR4Ynp6ZXBxNXVvOHJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Sayan%20%F0%9F%91%8B&fontColor=58a6ff&fontSize=42&fontAlignY=35&desc=%E2%9C%A8%20Backend%20Developer%20%C2%B7%20Cloud%20Engineer%20%C2%B7%20Open%20Source%20Builder&descColor=8b949e&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
-# 🎮 PLAYER PROFILE: SAYAN KARMAKAR 🎮
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=550&height=45&lines=I+build+things+for+the+cloud+%E2%98%81%EF%B8%8F;Node.js+%7C+Azure+%7C+Docker+%7C+Kubernetes;Open+source+enthusiast+%F0%9F%9A%80;Fascinated+by+black+holes+%26+spacetime+%F0%9F%8C%8C)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJkMmJlMjZiODY4MmM4ZmFjZTJiMjBkZDM0YmQ2NmU2ZDVkYzE0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="100">
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=LEVEL+UP!;GAME+DEVELOPER;COMPETITIVE+CODER;SPACE+EXPLORER;READY+PLAYER+ONE)](https://git.io/typing-svg)
+<a href="https://sayan.codes"><img src="https://img.shields.io/badge/-sayan.codes-58a6ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/sayan-karmakar"><img src="https://img.shields.io/badge/-sayan--karmakar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sayancodder731@gmail.com"><img src="https://img.shields.io/badge/-sayancodder731@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Sayan-dev731"><img src="https://img.shields.io/badge/-Sayan--dev731-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sayan-Dev731&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Sayan-Dev731&color=58a6ff&style=flat-square&label=profile+views" alt="Profile Views"/>
 
 </div>
 
-## 🎯 PLAYER STATS
+<br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd4ZWlkYnR2NHIxZnQyc3p6MzUydzBkNTY0dmo0aTVkaHgydXd4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HscDLzkO8EOTmgkhQP/giphy.gif" width="200px" align="right">
+## 🧑‍💻 `whoami`
 
-```diff
-+ 🚀 Class: Space Explorer
-+ 🎮 Main Role: Game Developer
-+ 💻 Side Quest: Deep Learning Engineer
-+ 🌌 Special Ability: Turning Code into Adventures
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+```js
+const sayan = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    education: "B.Tech CSE '26",
+    roles: [
+        "Azure Student Intern @ Microsoft",
+        "Gold Microsoft Student Ambassador",
+        "Founder @ DevSync OpenSource",
+    ],
+    currentlyBuilding: "Cloud-native backend services on Azure",
+    askMeAbout: [
+        "backend APIs",
+        "system design",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "open source",
+    ],
+    funFact: "I can talk about black holes longer than they take to evaporate",
+};
 ```
 
-## 🎮 CURRENT QUEST LOG
+<br clear="both"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY290cDNzMXJvczg2ZzR1dThuaG5xaTV0d3RoYWFpa3dqaHYwYzA4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lINRJmPp5n4fMjCm9B/giphy.gif" width="200px" align="right">
+---
 
-```css
-🎯 Mastering Generative AI
-🎯 Leveling up Computer Vision Skills
-🎯 Unlocking Advanced NLP Achievements
-🎯 Exploring Azure Machine Learning Realms
-```
-
-## 🛠️ EQUIPPED SKILLS & WEAPONS
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt4bTdybDM4d25pY2s1OXE2M2c0ZTQzN2J3ajJ1MTR1bDV3Y2RoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150px" align="right">
-
-### 💪 Primary Weapons
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-### 🗡️ Secondary Weapons
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🏆 ACHIEVEMENT UNLOCKED
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNldm95M2Z3ZGR4NmR2bjg0dWRxMWVhdHUyOWxrNWt1ZXk4ZnhseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150px">
+<table>
+<tr><td valign="top" width="33%">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+#### 🔧 Backend
 
-### 🎖️ Special Achievements
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px"/>
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</div>
+</td><td valign="top" width="33%">
+
+#### ☁️ Cloud & DevOps
+
+<div align="center">
+
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+</td><td valign="top" width="33%">
+
+#### 💾 Databases & Tools
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+</td></tr>
+</table>
 
 </div>
 
-## 📊 PLAYER STATS
+---
+
+## 🚀 What I've Been Building
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRjYWtvNnA5cDQ5ajFxYnZyYXg3NzRqd3kzeGtxNzhtd2M1Z2JwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="150px">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayan-Dev731&show_icons=true&theme=synthwave)](https://github.com/Sayan-Dev731)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Dev731&layout=compact&theme=synthwave)](https://github.com/Sayan-Dev731)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Dev731&theme=synthwave)](https://github.com/Sayan-Dev731)
+<a href="https://github.com/Sayan-dev731"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayan-Dev731&repo=Voyar-backend&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" width="49%"/></a>
+<a href="https://github.com/Sayan-dev731"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayan-Dev731&repo=DevSync&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" width="49%"/></a>
 
 </div>
 
-## 🎮 FEATURED QUESTS (Projects)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFiYTBkNjlmOGJkYTU3ZDdhOGY1YzY3ZjY0ZDYzZDNhZGNmMzhmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="180px" align="right">
+<details>
+<summary><b>🌟 More Projects</b></summary>
+<br>
 
-```css
-🎯 [Epic Quest] Project Portfolio - https://sayan-dev731.github.io/MyWebsite/
-🎯 [Side Quest] Unity Game Project
-🎯 [Bonus Level] Godot Game Project
-```
+| Project                     | Tech                                | Description                                                                                   |
+| --------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Voyar**                   | Node.js, Express, MongoDB, Razorpay | Production e-commerce backend with JWT auth, RBAC, payments, webhooks, Shiprocket integration |
+| **DevSync**                 | Node.js, Express, MongoDB, Docker   | Open-source platform for managing projects & contributors with containerized architecture     |
+| **Azure Document Analyzer** | Node.js, Azure AI Form Recognizer   | Real-time document analysis APIs with scalable cloud processing                               |
+| **Zenith**                  | Python, ML                          | Disease prediction system with supervised ML pipelines                                        |
 
-## 🌐 MULTIPLAYER ZONE
+</details>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sayan-karmakar-01239a242"><img src="https://img.shields.io/badge/Join_Party_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sayancodder731@gmail.com"><img src="https://img.shields.io/badge/Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Sayan-Dev731&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&rank_icon=github&count_private=true&hide_border=false" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=Sayan-Dev731&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" alt="GitHub Streak"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Dev731&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide_border=false" width="40%" alt="Top Languages"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Dev731&layout=donut&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide_border=false" width="34%" alt="Languages Donut"/>
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sayan-Dev731&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true)](https://github.com/Sayan-Dev731)
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan-Dev731&theme=github_dark" width="100%" alt="Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayan-Dev731&theme=github_dark" width="32%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayan-Dev731&theme=github_dark" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayan-Dev731&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
 
 </div>
 
-## 🎵 BGM PLAYER STATUS
+---
+
+## 🏆 Trophies
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEyYmRzN21vNzVicTRoYW56ODl2emEyd3dlbDJ3OHB4enFqbXNkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kC8QA2OYWOADK0e1Qr/giphy.gif" width="150px">
 
-*"Now Playing: Epic Coding Symphony 🎵"*
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=onedark&no-frame=false&no-bg=false&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌌 Beyond the Code
+
+<img align="right" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="240"/>
+
+When I'm not pushing commits, I'm falling into rabbit holes about the cosmos.
+
+Things I think about way too much:
+
+- 🕳️ What happens at the singularity of a black hole?
+- 🌊 How gravitational waves warp spacetime itself
+- ⭐ Neutron stars spinning 700 times per second
+- 🔭 The observable universe — 93 billion light-years wide & expanding
+- 🪐 Are there exoplanets with civilizations looking back at us?
+- 💫 Dark matter makes up 27% of the universe & we can't see it
+
+> _"The cosmos is within us. We are made of star-stuff."_ — Carl Sagan
+
+<br clear="both"/>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+`Microsoft Azure AI Fundamentals` · `MongoDB Developer Toolkit` · `Postman API Fundamentals` · `GitHub Actions`
+<br>
+`Google Cloud AI/ML` · `AWS Cloud Essentials` · `AWS Solutions Architecture` · `micro1 Backend Engineer`
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
 
-## 🎮 DAILY QUEST PROGRESS
-![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+#### 💬 Let's connect — I'm always up for talking about backend systems, cloud architecture, or the heat death of the universe.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1yM3oxbm9wM2U3dGxxYnhsdW1ibjlnNXh5Y2NzbnU3Y2hhZWp2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPc9VZj4ylzjcys/giphy.gif" width="100px">
+<a href="https://sayan.codes"><img src="https://img.shields.io/badge/-sayan.codes-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="https://linkedin.com/in/sayan-karmakar"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:sayancodder731@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://github.com/Sayan-dev731"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-**[⭐ Star Repositories to Join My Quest Party! ⭐]**
+<br><br>
+
+⭐ _Star a repo if something catches your eye!_
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+
 </div>
